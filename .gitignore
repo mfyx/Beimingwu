@@ -38,3 +38,5 @@ dist-ssr
 
 # Docs
 cache
+
+deploy/docker-compose
